@@ -9,7 +9,7 @@ multiplesOf15 = 15
 counterOf15 = 0
 while (multiplesOf3 < 1000):
     counterFor3 += multiplesOf3
-	multiplesOf3 +=3
+    multiplesOf3 +=3
 while (multiplesOf5 < 1000):
     counterFor5 += multiplesOf5
     multiplesOf5 +=5
